@@ -1,6 +1,6 @@
 # Algo Trading
 
-[Algo Trading](https://cib.bnpparibas/app/uploads/sites/2/cache/2023/06/cib-img-fx-algo-trading/328150470.jpg)
+![Algo Trading](https://cib.bnpparibas/app/uploads/sites/2/cache/2023/06/cib-img-fx-algo-trading/328150470.jpg)
 
 This repository contains a Python script for implementing a simple trading strategy based on the Golden Cross and Death Cross signals. 
 
